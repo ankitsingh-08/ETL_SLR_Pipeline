@@ -6,7 +6,7 @@ This repository contains a project that involves fetching data from an API, clea
 ## Project Structure
 
 ```
-📂 ProjectsDataScience
+📂 ETL_SLR_Pipeline
 │-- 📂 data
 │   │-- task1.csv         # Raw data fetched from the API
 │   │-- cleandata.csv     # Cleaned and preprocessed data
@@ -22,8 +22,8 @@ This repository contains a project that involves fetching data from an API, clea
 
 ## Results
 
-- **Raw API Data:** `/task1.csv`
-- **Cleaned Data:** `/cleandata.csv`
+- **Raw API Data:** `ETL_SLR_Pipeline/data/task1.csv`
+- **Cleaned Data:** `ETL_SLR_Pipeline/data/cleandata.csv`
 
 ## Contributing
 
